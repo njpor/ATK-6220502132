@@ -10,7 +10,7 @@
 </head>
     <body>
     <p style="font-family:courier;">I'm so ขี้เกียจ TOT</p>
-        <button ="">HOME</button>
+        <button><a href="">HOME</a></button>
         <button ="">Quotation</button>
         <button ="">Quotation Detail</button>
 
